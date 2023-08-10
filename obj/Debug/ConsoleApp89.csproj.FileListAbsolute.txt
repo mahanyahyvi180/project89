@@ -1,0 +1,2 @@
+G:\Users\ASUS\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csproj.CoreCompileInputs.cache
